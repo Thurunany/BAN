@@ -1,0 +1,7 @@
+id_categoria,nome,icone,valor_total_categoria,dt_criacao,dt_atualizacao,id_usuario
+1,Alimentação,food,0,2024-01-01,2024-06-01,1
+2,Transporte,transport,0,2024-02-01,2024-06-01,1
+3,Saúde,health,0,2024-03-01,2024-06-01,1
+4,Educação,education,0,2024-04-01,2024-06-01,2
+5,Lazer,leisure,0,2024-05-01,2024-06-01,2
+6,Moradia,home,0,2024-06-01,2024-06-01,2

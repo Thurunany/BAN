@@ -1,0 +1,21 @@
+id_transacoes,nome,valor_trans,tipo_operacao,dt_criacao,dt_atualizacao,id_usuario,id_categoria
+1,Compra de supermercado,200.0,despesa,2024-07-01,2024-07-01,1,1
+2,Bilhete de ônibus,3.5,receita,2024-01-01,2024-01-01,1,2
+3,Consulta médica,150.0,despesa,2024-02-01,2024-02-01,1,3
+4,Mensalidade escolar,500.0,receita,2024-03-01,2024-03-01,1,4
+5,Cinema,30.0,despesa,2024-04-01,2024-04-01,1,5
+6,Aluguel,800.0,receita,2024-05-01,2024-05-01,1,6
+7,Compra de supermercado,200.0,despesa,2024-06-01,2024-06-01,1,1
+8,Bilhete de ônibus,3.5,receita,2024-07-01,2024-07-01,1,2
+9,Consulta médica,150.0,despesa,2024-01-01,2024-01-01,1,3
+10,Mensalidade escolar,500.0,receita,2024-02-01,2024-02-01,1,4
+11,Cinema,30.0,despesa,2024-03-01,2024-03-01,2,1
+12,Aluguel,800.0,receita,2024-04-01,2024-04-01,2,2
+13,Compra de supermercado,200.0,despesa,2024-05-01,2024-05-01,2,3
+14,Bilhete de ônibus,3.5,receita,2024-06-01,2024-06-01,2,4
+15,Consulta médica,150.0,despesa,2024-01-01,2024-01-01,2,1
+16,Mensalidade escolar,500.0,receita,2024-02-01,2024-02-01,2,2
+17,Cinema,30.0,despesa,2024-03-01,2024-03-01,2,3
+18,Aluguel,800.0,receita,2024-04-01,2024-04-01,2,4
+19,Compra de supermercado,200.0,despesa,2024-05-01,2024-05-01,2,1
+20,Bilhete de ônibus,3.5,receita,2024-06-01,2024-06-01,2,2
